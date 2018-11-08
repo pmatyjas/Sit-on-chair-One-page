@@ -9,7 +9,7 @@ Page made based on jpg image (scale 1:1 - Pixel Perfect). </p>
 <p> HTML5, CSS, JavaScript </p>
 
 <h3> Screenshot </h3>
-![Page prtscr](./images/sitonchair.jpg) 
+![Page](./images/sitonchair.jpg) 
 
 
 
